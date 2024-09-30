@@ -12,7 +12,7 @@ ventana.configure(bg="LightCyan2")
 #se utiliza para configurar si la ventana se puede redimensionar
 ventana.resizable(False,True) #ancho y alto
 #agregar transparencia a la ventana(opcional) el valor va de 1 al 100%
-ventana.attributes("-alpha", 0.9)
+ventana.attributes("-alpha", 0.0)
 
 
 
